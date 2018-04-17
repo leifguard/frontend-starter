@@ -25,5 +25,6 @@
 		- eine Select-Box
 		- eine Text-Area
 		- Buttons zu Abschicken und Zurücksetzen des Formulars
+	- eine Tabelle mit entsprechenden Inhalts-Gruppierungen und probiere in der Tabelle auch die Attribute `rowspan` und `colspan` aus.
 
 
