@@ -6,11 +6,11 @@
 
 - Binde in die Seite zwei extern verlinkte Dateien ein:
 
-	1. Eine Datei für Stylesheets mit dem Namen "styles.css" in einem Ordner "css"
+	- eine Datei für Stylesheets mit dem Namen "styles.css" in einem Ordner "css"
 
-	2. Eine Datei für Javascript mit dem Namen "scripts.js" in einem Ordner "js"
+	- eine Datei für Javascript mit dem Namen "scripts.js" in einem Ordner "js"
 
 - Füge in den body der Seite folgende Elemente hinzu:
+	- hast du zu Beginn dieser Übung das ELement `<nav>` in deine Seite eingefügt, dann füge dem Element ungeordnete Liste hinzu (solltest du noch kein Nav-Tag in deiner Seite verwenden, dann füge es jetzt hinzu)
 	- eine Headline (beliebiger Ordnung)
 	- einen Paragraphen mit einem Copy-Text (http://www.loremipsum.de/)
-	- hast du zu Beginn dieser Übung das ELement `<nav>` in deine Seite eingefügt, dann füge dem Element ungeordnete Liste hinzu
