@@ -1,10 +1,10 @@
-#HTML
+# HTML
 
-##Übung 1:
+## Übung 1:
 
 Setze Grundgerüst einer HTML-Seite auf und speicher die unter index.html.
 
-##Übung 2:
+## Übung 2:
 
 Binde in die Seite zwei extern verlinkte Dateien ein:
 
