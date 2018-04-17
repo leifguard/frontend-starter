@@ -2,7 +2,7 @@
 
 ## Übung 1:
 
-- Setze Grundgerüst einer HTML-Seite auf und speicher die unter index.html. Sorge dafür das das Dokument nach HTML 5 Standard den richtige Doctype hat. Das Grundgerüst sollte auch neue Elemente des HTML5 Standards enthalten (https://www.w3schools.com/html/html5_intro.asp).
+- Setze Grundgerüst einer HTML-Seite auf und speichere diese unter index.html an einem Ort deiner Wahl. Sorge dafür das das Dokument nach HTML 5 Standard den richtige Doctype hat. Das Grundgerüst sollte auch neue Elemente des HTML5 Standards enthalten (https://www.w3schools.com/html/html5_intro.asp).
 
 - Binde in die Seite zwei extern verlinkte Dateien ein:
 
@@ -11,7 +11,7 @@
 	- eine Datei für Javascript mit dem Namen "scripts.js" in einem Ordner "js"
 
 - Füge in den body der Seite folgende Elemente hinzu:
-	- hast du zu Beginn dieser Übung das ELement `<nav>` in deine Seite eingefügt, dann füge dem Element ungeordnete Liste hinzu (solltest du noch kein Nav-Tag in deiner Seite verwenden, dann füge es jetzt hinzu),
+	- hast du zu Beginn dieser Übung das ELement `<nav>` in deine Seite eingefügt, dann füge dem Element eine ungeordnete Liste hinzu (solltest du noch kein Nav-Tag in deiner Seite verwenden, dann füge es jetzt hinzu),
 	- eine Headline (beliebiger Ordnung),
 	- einen Paragraphen mit einem Copy-Text (http://www.loremipsum.de/),
 	- in dem Copytext ein teil des Textes mit einem `span` umschlossen sein
