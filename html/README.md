@@ -19,6 +19,9 @@
 	- eine ungeordnete Liste innerhalb des Footers
 
 ## Übung 3:
+- Füge dem `head` ein meta-Tag hinzu, welches den Viewport auf die vorliegende Device-Breite festlegt.
+
+## Übung 4:
 
 - Füge in den body der Seite folgende Elemente hinzu:
 
