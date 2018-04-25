@@ -14,7 +14,7 @@
 ## Übung 2:
 - Füge in den body der Seite folgende Elemente hinzu:
 
-	- hast du zu Beginn dieser Übung das ELement `<nav>` in deine Seite eingefügt, dann füge dem Element eine geordnete Liste hinzu (solltest du noch kein Nav-Tag in deiner Seite verwenden, dann füge es jetzt hinzu)
+	- hast du zu Beginn in der Übung 1 das ELement `<nav>` in deine Seite eingefügt, dann füge dem Element eine geordnete Liste hinzu (solltest du noch kein Nav-Tag in deiner Seite verwenden, dann füge es jetzt hinzu)
 	- `<header>` und `<footer>` Tags
 	- eine ungeordnete Liste innerhalb des Footers
 
