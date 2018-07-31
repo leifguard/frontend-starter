@@ -28,9 +28,10 @@
 	- eine Headline (beliebiger Ordnung),
 	- einen Paragraphen mit einem Copy-Text (http://www.loremipsum.de/),
 	- in dem Copytext sollte ein Teil des Textes mit einem `span` umschlossen sein
-	- ein div-Element mit einem Bild (mit alt-Attributen, mehr über Attribute unter: https://www.w3schools.com/html/html_attributes.asp) und einer Bildunterschrift,
+	- probiere auch die Elemente `<em>, <q>, <blockqoute>, <adress>` und `<cite>` aus
+	- ein div-Element mit einem Bild (mit alt-Attribut, mehr über Attribute unter: https://www.w3schools.com/html/html_attributes.asp) und einer Bildunterschrift,
 	- einen Link der als Ziel https://www.w3schools.com hat und ein title-Attribut mit einer Beschreibung enthält
-	- ein Formular, welches mit Fieldsets struktiuriert ist.
+	- ein Formular, welches mit Fieldsets strukturiert ist.
 	- Das Formular sollte folgenden Eingabe-Feldern (mit entsprechenden labels) enthalten:
 		- Textfelder
 		- Radio-Buttons
