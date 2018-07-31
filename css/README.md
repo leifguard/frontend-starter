@@ -12,5 +12,5 @@ Danach solltest du wissen was ruleset/rule, selector, property und ein property-
 
 ## Übung 2
 
-Jetzt solltest du dich mit der Positionierung von Elementen auseinandersetzen. Füge deinem Markup ein Element hinzu das zwei Kind-Element hat. Mittels CSS fügst du dem Container einen sichtbaren Rahmen hinzu und den Kind-Elemente rules hinzu, die beiden Elementen die gleichen Größen und für jedes Element eine eigene Hintergundfarbe definieren. Darüber hinaus gebe den Kind-Elementen unterschiedliche properties bzgl. der Positionierung (https://www.w3schools.com/css/css_positioning.asp) und sieh dir an, wie sich die Elemente verhalten.
+Jetzt solltest du dich mit der Positionierung von Elementen auseinandersetzen. Füge deinem Markup ein Element hinzu das zwei Kind-Element hat. Mittels CSS fügst du dem Container einen sichtbaren Rahmen hinzu und den Kind-Elemente rules hinzu, die beiden Elementen die gleichen Größen und für jedes Element eine eigene Hintergundfarbe definieren. Darüber hinaus gebe den Kind-Elementen unterschiedliche properties bzgl. der Positionierung (https://www.w3schools.com/css/css_positioning.asp) und sieh dir an, wie sich die Elemente verhalten.  
 Danach solltest du unbedingt ausprobieren, was passiert, wenn du die Positionierung des Eltern-Elementes änderst.
