@@ -13,7 +13,9 @@ Du kannst für die Liste entweder Element-Selektoren, Klassen-Selektoren oder au
 
 ## Übung 2
 
-Jetzt solltest du dich mit der Positionierung von Elementen auseinandersetzen. Füge deinem Markup ein Element hinzu das zwei Kind-Element hat. Mittels CSS fügst du dem Container einen sichtbaren Rahmen hinzu und den Kind-Elemente rules hinzu, die beiden Elementen die gleichen Größen und für jedes Element eine eigene Hintergundfarbe definieren. Darüber hinaus gebe den Kind-Elementen unterschiedliche properties bzgl. der Positionierung (https://www.w3schools.com/css/css_positioning.asp) und sieh dir an, wie sich die Elemente verhalten.  
+Jetzt solltest du dich mit der Positionierung von Elementen auseinandersetzen. Füge deinem Markup ein neues Element (z.B. ein `div`) hinzu das zwei Kind-Element hat. Mittels CSS fügst du dem Container einen sichtbaren Rahmen hinzu und für die Kind-Elemente rules hinzu, die beiden Kind-Elementen die gleichen Größen und für jedes Element eine eigene Hintergundfarbe definieren. Darüber hinaus gebe den Kind-Elementen unterschiedliche properties bzgl. der Positionierung (https://www.w3schools.com/css/css_positioning.asp) und sieh dir an, wie sich die Elemente verhalten.  
 Danach solltest du unbedingt ausprobieren, was passiert, wenn du die Positionierung des Eltern-Elementes änderst.
 
 ## Übung 3
+
+In diese Übung geht es um display-Properties (https://www.w3schools.com/cssref/pr_class_display.asp). In den Übungen zu HTML hast du scho einige Elemente kennen gelernt, die ein unterscheidliches Anzeigeverhalten ausweisen (https://www.w3schools.com/html/html_blocks.asp) Dazu füge in dein Markup ein `<span>` und ein `<a>` ein und ein `<div>` und ein `<p>`. Füge im CSS mittel eines Selektors deiner Wahl für alle diese Element
