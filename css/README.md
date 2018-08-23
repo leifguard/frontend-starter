@@ -11,6 +11,8 @@ Danach solltest du wissen was ruleset/rule, selector, property und ein property-
 Öffne die in den HTML-Übungen angelegte CSS-Datei unter css/styles.css und beginne damit die ungeordnete Liste innerhalb des `nav`-Elements zu stylen. Bei der Gestaltung der Liste hast du freie Wahl. Vielleicht hast du dir schon ein paar Farben o.ä. ausgesucht, mit denen du die Seite gestalten möchtest.  
 Du kannst für die Liste entweder Element-Selektoren, Klassen-Selektoren oder auch Ids verwenden (https://www.w3schools.com/cssref/css_selectors.asp). Dabei solltest du beachten, dass es Unterschiede der Selektoren gibt und du solltest nicht vergessen, dass bei Klassen- und Id-Selektoren auch entsprechende Attribute im Markup vergeben werden müssen.
 
+Beim Styling der Navigation solltest du dich auch mit der Spezifizität der CSS-Selektoren vertraut machen (https://developer.mozilla.org/de/docs/Web/CSS/Spezifit%C3%A4t, https://little-boxes.de/lb1/6.5-spezifitaet-punktesystem-fuer-selektoren.html, https://css-tricks.com/specifics-on-css-specificity/). Das hilft dir z.B. dabei dass properties nur auf die Liste innerhalt des `nav`-Elementes angewendet werden.
+
 ## Übung 2
 
 Jetzt solltest du dich mit der Positionierung von Elementen auseinandersetzen. Füge deinem Markup ein neues Element (z.B. ein `div`) hinzu das zwei Kind-Element hat. Mittels CSS fügst du dem Container einen sichtbaren Rahmen hinzu und für die Kind-Elemente rules hinzu, die beiden Kind-Elementen die gleichen Größen und für jedes Element eine eigene Hintergundfarbe definieren. Darüber hinaus gebe den Kind-Elementen unterschiedliche properties bzgl. der Positionierung (https://www.w3schools.com/css/css_positioning.asp) und sieh dir an, wie sich die Elemente verhalten.  
